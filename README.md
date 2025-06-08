@@ -1,6 +1,6 @@
 # Shadows of Doubt - AI překlad
 
-Překlad byl proveden pomocí API **GEMINI**.
+Překlad byl proveden pomocí **GEMINI**.
 
 **Ještě není úplně hotov dělám to postupně !**
 
