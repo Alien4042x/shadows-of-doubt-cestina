@@ -2,6 +2,8 @@
 
 Překlad byl proveden pomocí API **GEMINI**.
 
+**Ještě není úplně hotov dělám to postupně !**
+
 **PS:Mám spoustu jiných projektů, ale budu se to snažit komplětně vyladit♥**
 
 ## Instalace
