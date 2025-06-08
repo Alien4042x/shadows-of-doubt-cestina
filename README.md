@@ -1,12 +1,8 @@
-# Shadows of Doubt - skoro čeština
+# Shadows of Doubt - AI překlad
 
-Jedná se o strojový základní překlad textů s drobnými korekturami. Záměrem nebylo přeložit hru dokonale, ale pouze využít aktuální technologie k základnímu rychlému překladu.
+Překlad byl proveden pomocí API **GEMINI**.
 
-Překlad byl proveden pomocí API **deepl.com**.
-
-**Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR češtiny. Stojí vás to mraky času, ale dáváte tomu lásku, kterou pořádná čeština stále potřebuje a potřebovat bude! ♥**
-
-<sub>PS Nijak se překlady nezabývám. Prostě jsem se probral a udělal to.</sub>
+**PS:Mám spoustu jiných projektů, ale budu se to snažit komplětně vyladit♥**
 
 ## Instalace
 1. Stáhni soubor `Source code (zip)` nebo `Source code(tar.gz)` z https://github.com/MrZajic/shadows-of-doubt-cestina/releases/latest:
