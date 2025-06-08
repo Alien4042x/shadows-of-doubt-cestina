@@ -2,7 +2,7 @@
 
 Překlad byl proveden pomocí **GEMINI**.
 
-**Ještě není úplně hotov dělám to postupně !**
+**Ještě není úplně hotové dělám to postupně !**
 
 **PS:Mám spoustu jiných projektů, ale budu se to snažit komplětně vyladit♥**
 
