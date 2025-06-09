@@ -1,4 +1,4 @@
-# Shadows of Doubt - AI překlad
+# Shadows of Doubt - AI překlad v40.02
 
 Překlad byl proveden pomocí **GEMINI**.
 
