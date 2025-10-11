@@ -831,57 +831,57 @@
 "move evidence",,"Přesunout důkazy",,,,"18:15 23/05/2024"
 "controller cursor sensitivity",,"Citlivost kurzoru ovladače",,,,"11:55 30/05/2024"
 "interface, achievements, wizcards",,"Rozhraní, úspěchy, wizkarty","",,"","14:39 02/04/2025"
-"game modifiers",,"Herní modifikátory",,,,"22:29 10/04/2025"
-"rat detective",,"Krysí detektiv",,,,"22:29 10/04/2025"
-"film noir",,"Film noir",,,,"22:29 10/04/2025"
-"modifiers",,"Modifikátory",,,,"00:06 11/04/2025"
-"gameplay modifiers",,"Modifikace hratelnosti",,,,"14:38 30/06/2025"
-"film noir modifier",,"Film noir",,,,"15:49 30/06/2025"
-"short sighted modifier",,"Krátkozrakost",,,,"15:49 30/06/2025"
-"gambling debt modifier",,"Dluh z hazardu",,,,"15:49 30/06/2025"
-"house arrest modifier",,"Domácí vězení",,,,"15:49 30/06/2025"
-"fame & fortune modifier",,"Sláva a bohatství",,,,"15:49 30/06/2025"
-"snail nemesis modifier",,"Šnečí nemesis",,,,"15:49 30/06/2025"
+“game modifiers”,,“Herní modifikátory”,,,,“22:29 10/04/2025”
+“rat detective”,,“Krysí detektiv”,,,,“22:29 10/04/2025”
+“film noir”,,“Film noir”,,,,“22:29 10/04/2025”
+“modifiers”,,“Modifikátory”,,,,“00:06 11/04/2025”
+“gameplay modifiers”,,“Modifikace hratelnosti”,,,,“14:38 30/06/2025”
+“film noir modifier”,,“Film noir”,,,,“15:49 30/06/2025”
+“short sighted modifier”,,“Krátkozrakost”,,,,“15:49 30/06/2025”
+“gambling debt modifier”,,“Dluh z hazardu”,,,,“15:49 30/06/2025”
+“house arrest modifier”,,“Domácí vězení”,,,,“15:49 30/06/2025”
+“fame & fortune modifier”,,“Sláva a bohatství”,,,,“15:49 30/06/2025”
+“snail nemesis modifier”,,“Šnečí nemesis”,,,,“15:49 30/06/2025”
 "rat detective modifier",,"Krysí detektiv",,,,"15:49 30/06/2025"
-"mod_filmnoir_description",,"Odbarví herní svět jednoduchou vizuální úpravou.",,,,"16:00 30/06/2025"
-"mod_shortsighted_description",,"Po návštěvě optiky potřebujete mít brýle v inventáři, abyste viděli jasně. Pokud je ztratíte, zrak se rozostří. Pozor: V boji nebo po pádu vám mohou spadnout. Vyžaduje zapnutou hloubkovou neostrost (bude zapnuta automaticky).",,,,"16:01 12/08/2025"
-"mod_gamblingdebt_description",,"Začínáte s malým jměním v kapse, ale zároveň dlužíte lichváři. Dluh musíte každý den splácet, jinak po vás půjdou a zaútočí.",,,,"16:01 30/06/2025"
-"mod_housearrest_description",,"Pokud začnete s bytem, nebo jakmile si ho pořídíte, nebude vám legálně dovoleno jej opustit: Ochranka budovy vás bude považovat za hrozbu.",,,,"16:01 30/06/2025"
-"mod_fameandfortune_description",,"Dokázali jste to. Jste slavný detektiv. Ale pozor na to, co si přejete: Obyvatelé vás mohou zastavit nebo dokonce pronásledovat kvůli podpisu nebo pokecu.",,,,"16:01 30/06/2025"
-"mod_snailnemesis_description",,"Jste nezranitelní vůči bojovému poškození, kromě kontaktu se šnekem. Šnek se neustále pohybuje k vaší aktuální poloze, i když máte otevřenou nástěnku případů. Inspirováno memem ‘nesmrtelný šnek’ od Gavina Freeho.",,,,"16:01 30/06/2025"
-"mod_ratdetective_description",,"Chcete výzvu, detektive? Odložte baloňák, zažijte krysí závod doslova. Škrábejte, plazte se a šplhejte špínou. Hodně štěstí na cestě k důchodu – pamatujte, málokdo věří krysám.",,,,"16:01 30/06/2025"
-"startingapartment_description",,"Začněte se svým bytem v sandbox režimu.",,,,"16:10 30/06/2025"
+“mod_filmnoir_description”,,“Odbarví herní svět jednoduchou vizuální úpravou.”,,,,“16:00 30/06/2025”
+“mod_shortsighted_description”,,“Po návštěvě optiky potřebujete mít brýle v inventáři, abyste viděli jasně. Pokud je ztratíte, zrak se rozostří. Pozor: V boji nebo po pádu vám mohou spadnout. Vyžaduje zapnutou hloubkovou neostrost (bude zapnuta automaticky).”,,,,“16:01 12/08/2025”
+“mod_gamblingdebt_description”,,“Začínáte s malým jměním v kapse, ale zároveň dlužíte lichváři. Dluh musíte každý den splácet, jinak po vás půjdou a zaútočí.”,,,,“16:01 30/06/2025”
+“mod_housearrest_description”,,“Pokud začnete s bytem, nebo jakmile si ho pořídíte, nebude vám legálně dovoleno jej opustit: Ochranka budovy vás bude považovat za hrozbu.”,,,,“16:01 30/06/2025”
+“mod_fameandfortune_description”,,“Dokázali jste to. Jste slavný detektiv. Ale pozor na to, co si přejete: Obyvatelé vás mohou zastavit nebo dokonce pronásledovat kvůli podpisu nebo pokecu.”,,,,“16:01 30/06/2025”
+“mod_snailnemesis_description”,,“Jste nezranitelní vůči bojovému poškození, kromě kontaktu se šnekem. Šnek se neustále pohybuje k vaší aktuální poloze, i když máte otevřenou nástěnku případů. Inspirováno memem ‘nesmrtelný šnek’ od Gavina Freeho.”,,,,“16:01 30/06/2025”
+“mod_ratdetective_description”,,“Chcete výzvu, detektive? Odložte baloňák, zažijte krysí závod doslova. Škrábejte, plazte se a šplhejte špínou. Hodně štěstí na cestě k důchodu – pamatujte, málokdo věří krysám.”,,,,“16:01 30/06/2025”
+“startingapartment_description”,,“Začněte se svým bytem v sandbox režimu.”,,,,“16:10 30/06/2025”
 "permadeath_description",,"Jakmile v hře upadnete do bezvědomí, hra končí – umíráte a už se neprobudíte.",,,,"16:10 30/06/2025"
-"ironman",,"Ironman",,,,"16:26 30/06/2025"
-"one save slot modifier",,"Jeden save slot",,,,"16:26 30/06/2025"
+“ironman”,,“Ironman”,,,,“16:26 30/06/2025”
+“one save slot modifier”,,“Jeden save slot”,,,,“16:26 30/06/2025”
 "mod_ironman_description",,"Pro každou novou postavu lze použít pouze jeden save slot. Pokud je aktivní i permadeath, save se po smrti smaže.",,,,"16:26 30/06/2025"
-"marketing (developer)",,"Marketing (vývojář)",,,,"16:29 25/07/2025"
-"marketing producer",,"Marketingový producent",,,,"16:29 25/07/2025"
-"edit bindings",,"Upravit ovládání",,,,"14:21 28/07/2025"
-"senior product manager",,"Senior produktový manažer",,,,"10:45 29/07/2025"
-"marketing/socials",,"Marketing / Sociální sítě",,,,"15:14 29/07/2025"
-"production department",,"Produkční oddělení",,,,"15:14 29/07/2025"
-"chief production officer",,"Hlavní produkční ředitel",,,,"15:14 29/07/2025"
-"lead producer",,"Hlavní producent",,,,"15:14 29/07/2025"
-"production support",,"Produkční podpora",,,,"15:14 29/07/2025"
-"chief marketing officer",,"Hlavní marketingový ředitel",,,,"15:14 29/07/2025"
-"influencer manager",,"Manažer influencerů",,,,"15:14 29/07/2025"
-"marketing support",,"Marketingová podpora",,,,"15:14 29/07/2025"
-"community manager",,"Community manažer",,,,"15:14 29/07/2025"
-"assistant community manager",,"Asistent community manažera",,,,"15:14 29/07/2025"
-"chief portfolio officer",,"Ředitel portfolia",,,,"15:14 29/07/2025"
-"head game scout",,"Vedoucí herní skaut",,,,"15:14 29/07/2025"
-"senior game scout",,"Senior herní skaut",,,,"15:14 29/07/2025"
-"junior game scout",,"Junior herní skaut",,,,"15:14 29/07/2025"
-"sales department",,"Obchodní oddělení",,,,"15:14 29/07/2025"
-"chief sales officer",,"Obchodní ředitel",,,,"15:14 29/07/2025"
-"senior account manager",,"Senior account manažer",,,,"15:14 29/07/2025"
-"account manager",,"Account manažer",,,,"15:14 29/07/2025"
-"finance department",,"Finanční oddělení",,,,"15:14 29/07/2025"
-"finance team",,"Finanční tým",,,,"15:14 29/07/2025"
-"operations department",,"Provozní oddělení",,,,"15:14 29/07/2025"
-"operations manager",,"Provozní manažer",,,,"15:14 29/07/2025"
-"operations assistant manager",,"Zástupce provozního manažera",,,,"15:14 29/07/2025"
-"admin assistant",,"Administrativní asistent",,,,"15:14 29/07/2025"
-"business development department",,"Oddělení rozvoje podnikání",,,,"15:14 29/07/2025"
-"sales and content analyst",,"Analytik prodeje a obsahu",,,,"15:14 29/07/2025"
+“marketing (developer)”,,“Marketing (vývojář)”,,,,“16:29 25/07/2025”
+“marketing producer”,,“Marketingový producent”,,,,“16:29 25/07/2025”
+“edit bindings”,,“Upravit ovládání”,,,,“14:21 28/07/2025”
+“senior product manager”,,“Senior produktový manažer”,,,,“10:45 29/07/2025”
+“marketing/socials”,,“Marketing / Sociální sítě”,,,,“15:14 29/07/2025”
+“production department”,,“Produkční oddělení”,,,,“15:14 29/07/2025”
+“chief production officer”,,“Hlavní produkční ředitel”,,,,“15:14 29/07/2025”
+“lead producer”,,“Hlavní producent”,,,,“15:14 29/07/2025”
+“production support”,,“Produkční podpora”,,,,“15:14 29/07/2025”
+“chief marketing officer”,,“Hlavní marketingový ředitel”,,,,“15:14 29/07/2025”
+“influencer manager”,,“Manažer influencerů”,,,,“15:14 29/07/2025”
+“marketing support”,,“Marketingová podpora”,,,,“15:14 29/07/2025”
+“community manager”,,“Community manažer”,,,,“15:14 29/07/2025”
+“assistant community manager”,,“Asistent community manažera”,,,,“15:14 29/07/2025”
+“chief portfolio officer”,,“Ředitel portfolia”,,,,“15:14 29/07/2025”
+“head game scout”,,“Vedoucí herní skaut”,,,,“15:14 29/07/2025”
+“senior game scout”,,“Senior herní skaut”,,,,“15:14 29/07/2025”
+“junior game scout”,,“Junior herní skaut”,,,,“15:14 29/07/2025”
+“sales department”,,“Obchodní oddělení”,,,,“15:14 29/07/2025”
+“chief sales officer”,,“Obchodní ředitel”,,,,“15:14 29/07/2025”
+“senior account manager”,,“Senior account manažer”,,,,“15:14 29/07/2025”
+“account manager”,,“Account manažer”,,,,“15:14 29/07/2025”
+“finance department”,,“Finanční oddělení”,,,,“15:14 29/07/2025”
+“finance team”,,“Finanční tým”,,,,“15:14 29/07/2025”
+“operations department”,,“Provozní oddělení”,,,,“15:14 29/07/2025”
+“operations manager”,,“Provozní manažer”,,,,“15:14 29/07/2025”
+“operations assistant manager”,,“Zástupce provozního manažera”,,,,“15:14 29/07/2025”
+“admin assistant”,,“Administrativní asistent”,,,,“15:14 29/07/2025”
+“business development department”,,“Oddělení rozvoje podnikání”,,,,“15:14 29/07/2025”
+“sales and content analyst”,,“Analytik prodeje a obsahu”,,,,“15:14 29/07/2025”
