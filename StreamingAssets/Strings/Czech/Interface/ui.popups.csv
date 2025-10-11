@@ -156,3 +156,8 @@
 "gameloaderror_body",,"Hru nelze načíst. To je pravděpodobně způsobeno poškozeným souborem nebo pokusem o načtení z města nebo uložené hry vytvořené mnohem starší verzí hry.",,,,"15:02 19/04/2024"
 "citygenerationtimewarning_title",,"To může trvat dlouho...",,,,"17:26 27/08/2024"
 "citygenerationtimewarning_body",,"Generování nového města může trvat dlouho! Pokud nechcete čekat, doporučujeme hrát v existujícím městě.",,,,"17:26 27/08/2024"
+"ironmansavegame_title",,"Ironman režim",,,,"16:45 15/07/2025"
+"ironmansavegame_body",,"S aktivovaným herním režimem 'Ironman' můžete ukládat nebo přepisovat pouze jeden save slot na postavu a město. Chcete nyní uložit do tohoto slotu?",,,,"16:45 15/07/2025"
+"saveonexit_title",,"Uložit hru před ukončením?",,,,"17:12 15/07/2025"
+"saveonexit_body",,"Chcete před ukončením uložit hru?",,,,"17:12 15/07/2025"
+"exit",,"Ukončit",,,,"17:12 15/07/2025"
