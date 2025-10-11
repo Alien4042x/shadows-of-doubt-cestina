@@ -38,7 +38,7 @@ Kompletní (AI-asistovaný) překlad hry **Shadows of Doubt** do češtiny.
 - [x] Přeloženy desítky systémových souborů (`blocks.csv`, `stringtables.csv`, atd.)
 - [x] Průběžné ladění češtiny (stylistika, nejasnosti, příliš doslovný překlad)
 - [x] Revize jednotlivých herních kontextů (UI, rozhovory, dokumenty)
-- [x Úprava fontů pro 100% kompatibilitu s diakritikou
+- [x] Úprava fontů pro 100% kompatibilitu s diakritikou
 
 ---
 
@@ -47,3 +47,4 @@ Kompletní (AI-asistovaný) překlad hry **Shadows of Doubt** do češtiny.
 - Nahlas chyby, divné věty nebo špatné formátování jako **Issue**
 - Nebo vytvoř **Pull Request** s návrhem úpravy
 - Můžeš přispět i kontrolou kontextu vět (v některých případech engine používá jeden text pro více scén)
+
