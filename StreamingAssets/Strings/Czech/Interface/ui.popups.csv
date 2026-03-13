@@ -161,3 +161,18 @@
 "saveonexit_title",,"Uložit hru před ukončením?",,,,"17:12 15/07/2025"
 "saveonexit_body",,"Chcete před ukončením uložit hru?",,,,"17:12 15/07/2025"
 "exit",,"Ukončit",,,,"17:12 15/07/2025"
+"workshop_upload_title",,"Nahrání na Steam Workshop",,,,"16:00 03/11/2025"
+"workshop_upload_body",,"Tímto nahrajete tento lokální mod na Steam Workshop. Před nahráním si prosím přečtěte naši dokumentaci k modům, kde najdete pokyny, jak správně nastavit metadata modu. Je mod plně nakonfigurovaný a připravený k nahrání?",,,,"16:00 03/11/2025"
+"documentation",,"Dokumentace",,,,"16:04 03/11/2025"
+"workshop_missing_name_title",,"Chybí název modu",,,,"10:12 04/11/2025"
+"workshop_missing_name_body",,"Mod, který se chystáte nahrát, nemá nastavený název v konfiguračním souboru ModSettings.txt. Pokud chcete pokračovat, zadejte jej zde...",,,,"10:12 04/11/2025"
+"workshop_missing_creator_title",,"Chybí autor modu",,,,"10:25 04/11/2025"
+"workshop_missing_creator_body",,"Mod, který se chystáte nahrát, nemá nastaveného autora v konfiguračním souboru ModSettings.txt. Pokud chcete pokračovat, zadejte jej zde...",,,,"10:25 04/11/2025"
+"workshop_missing_description_title",,"Chybí popis modu",,,,"10:25 04/11/2025"
+"workshop_missing_description_body",,"Mod, který se chystáte nahrát, nemá nastavený popis v konfiguračním souboru ModSettings.txt. Pokud chcete pokračovat, zadejte jej zde...",,,,"10:25 04/11/2025"
+"steam_workshop_agreement_title",,"Smlouva Steam Workshop",,,,
+"steam_workshop_agreement_body",,"Před nahráním musíte souhlasit se smlouvou Steam Workshop. Po jejím odsouhlasení zkuste nahrání znovu.",,,,
+"workshop_update_success_title",,"Nahrání úspěšné!",,,,
+"workshop_update_success_body",,"Váš mod byl úspěšně nahrán na Steam Workshop.",,,,
+"workshop_update_failed_title",,"Nahrání se nezdařilo",,,,
+"workshop_update_failed_body",,"Nahrání na Steam Workshop se nezdařilo.",,,,
