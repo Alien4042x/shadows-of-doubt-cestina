@@ -111,3 +111,6 @@
 "autotravelenable",,"Naplánovat trasu a povolit automatické cestování",,,,"12:12 06/02/2024"
 "fasttravelenable",,"Naplánovat trasu a povolit rychlé cestování",,,,"12:12 06/02/2024"
 "fasttravel_detail",,"Když je zapnuto automatické cestování, vaše postava se bude automaticky pohybovat k naplánovanému cíli. S rychlým cestováním se čas zrychlí, aby se to stalo rychleji.",,,,"12:12 06/02/2024"
+"local mod",,"Lokální mod",,,,"12:27 06/11/2025"
+"mod.io mod",,"Mod z Mod.io",,,,"12:28 06/11/2025"
+"steam workshop mod",,"Mod ze Steam Workshopu",,,,"12:28 06/11/2025"
